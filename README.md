@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 🍎 实验二：水果分割算法设计与实现
 
 > **课程**：计算机视觉实验 ｜ **班级**：计232 ｜ **姓名**：孙朝阳 ｜ **学号**：234903  
@@ -378,6 +379,8 @@ Dice Loss + BCE Loss 的混合设计，直接优化 IoU 指标，有效缓解了
 
 *实验报告完整版见 `计算机视觉实验2.docx`，可视化结果图见 `runs/` 目录。*
 =======
+=======
+>>>>>>> a754bdf7c5fbb47f2f58dd9e7b938bcee422d01c
 # 🍎 Fruit Segmentation in Orchards (MinneApple)
 
 基于 U-Net 架构与 CBAM 注意力机制的水果语义分割项目 (实验二)
@@ -410,5 +413,9 @@ cv_test2/
 ├── dataset.py                  # 🗂️ 自定义 MinneApple 数据集加载器与预处理逻辑
 ├── train.py                    # 🚀 核心训练脚本 (包含验证、日志记录与可视化)
 ├── environment_settings.pdf    # 📝 实验环境与超参数配置详情 (PDF)
+<<<<<<< HEAD
+└── README.md                   # 📖 项目说明文档
+>>>>>>> a754bdf7c5fbb47f2f58dd9e7b938bcee422d01c
+=======
 └── README.md                   # 📖 项目说明文档
 >>>>>>> a754bdf7c5fbb47f2f58dd9e7b938bcee422d01c
